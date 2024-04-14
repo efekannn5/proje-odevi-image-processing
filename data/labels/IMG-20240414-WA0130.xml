@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG-20240414-WA0130.jpg</filename>
+	<path>/my-project-name/IMG-20240414-WA0130.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1151</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>kalem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1027</xmin>
+			<ymin>462</ymin>
+			<xmax>1077</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -15,7 +15,7 @@
 
 2. ./Model_creation.ipynb dosyasının ıcıncekı adımları takıp et 
 
-3. Butun adımları tamamladıktan sonra ./main.py dosyasını calsıstır. 
+3. Butun adımları tamamladıktan sonra ./main.py dosyasını calıstırın. Son eğitimde yaptıgınız exp dosyasının secmeyı unutmayın. 
 
 
 ////////////////////////////////////////////////////////

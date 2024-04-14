@@ -27,6 +27,3 @@ def convert_voc_to_yolo():
                     bb = convert_box((w, h), [float(xmlbox.find(x).text) for x in ('xmin', 'xmax', 'ymin', 'ymax')])
                     cls_id = names.index(cls)  # class id
                     out_file.write(" ".join([str(a) for a in (cls_id, *bb)]) + '\n')
-
-
-convert_voc_to_yolo()
